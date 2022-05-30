@@ -70,6 +70,34 @@
       "price": "300",
       "imageSrc": "https://picsum.photos/seed/picsum2/421/261",
       "id": 9
+    },
+    {
+      "title": "abc",
+      "category": "pant",
+      "": "male",
+      "price": "1234",
+      "id": 10
+    },
+    {
+      "title": "abc",
+      "category": "pant",
+      "": "male",
+      "price": "123",
+      "id": 11
+    },
+    {
+      "title": "asd",
+      "category": "pant",
+      "": "male",
+      "price": "233",
+      "id": 12
+    },
+    {
+      "title": "edw",
+      "category": "pant",
+      "": "male",
+      "price": "123",
+      "id": 13
     }
   ]
 }
